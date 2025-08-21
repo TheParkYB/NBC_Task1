@@ -40,3 +40,4 @@
 # debug information files
 *.dwo
 NBC_Task1/x64/
+.vs/
