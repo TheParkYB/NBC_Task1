@@ -1,5 +1,6 @@
-#include <iostream>
+﻿#include <iostream>
 #include <string>
+
 using namespace std;
 
 //보유 포션 개수 설정
